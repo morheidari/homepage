@@ -185,6 +185,7 @@ footer > .contact {
     align-items: center;
     justify-content: center;
     text-align: center;
+    margin: 16 px;
   }
   .links {
     align-self: center;
